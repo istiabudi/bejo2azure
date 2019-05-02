@@ -9,7 +9,7 @@ use MicrosoftAzure\Storage\Blob\Models\CreateContainerOptions;
 use MicrosoftAzure\Storage\Blob\Models\PublicAccessType;
 
 $connectionString = "DefaultEndpointsProtocol=https;AccountName=bejoazure;AccountKey=SbSIBaqhb+AKVoWrJk8bbFHyaRSHBTGONSux4L0uAFsFebUZ+BEz2kuzFhKi5myUB1iKO3acU17cQ8haXskL7w==;EndpointSuffix=core.windows.net";
-$containerName = "azurecontainer";
+$containerName = "blobistia";
 // Create blob client.
 $blobClient = BlobRestProxy::createBlobService($connectionString);
 if (isset($_POST['submit'])) {
