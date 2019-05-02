@@ -29,7 +29,7 @@ if (isset($_POST['submit'])) {
             <!-- Custom styles for this template -->
             <link href="starter-template.css" rel="stylesheet">
 
-            <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
 
             <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Fredoka+One|Maven+Pro|Righteous" rel="stylesheet">
@@ -62,10 +62,10 @@ if (isset($_POST['submit'])) {
 		<div class="collapse navbar-collapse" id="navbarsExampleDefault">
 			<ul class="navbar-nav mr-auto">
 			<li class="nav-item">
-				<a class="nav-link" href="https://dicodingisb.azurewebsites.net/">Home</a>
+				<a class="nav-link" href="https://dicodingistia.azurewebsites.net/">Home</a>
 			</li>
 			<li class="nav-item active">
-				<a class="nav-link" href="https://dicodingisb.azurewebsites.net/analyze.php">Analisis Pribadi<span class="sr-only">(current)</span></a>
+				<a class="nav-link" href="https://dicodingistia.azurewebsites.net/analyze.php">Analisis Pribadi<span class="sr-only">(current)</span></a>
 			</li>
 		</div>
 		</nav>
