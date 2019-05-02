@@ -103,7 +103,7 @@ $result = $blobClient->listBlobs($containerName, $listBlobsOptions);
         // **********************************************
  
         // Replace <Subscription Key> with your valid subscription key.
-        var subscriptionKey = "dc30992d92be480da5be357b0919877f";
+        var subscriptionKey = "61ef709fade742c789fd8744390f9c56";
  
         // You must use the same Azure region in your REST API method as you used to
         // get your subscription keys. For example, if you got your subscription keys
