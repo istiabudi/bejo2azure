@@ -118,7 +118,7 @@ $result = $blobClient->listBlobs($containerName, $listBlobsOptions);
  
         // Request parameters.
         var params = {
-            "visualFeatures": "Faces",
+            "visualFeatures": "Categories,Description,Color",
             "details": "",
             "language": "en",
         };
